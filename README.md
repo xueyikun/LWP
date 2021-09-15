@@ -1,1 +1,1 @@
-A music playback site that can communicate and share music with others and play music.
+A music playback site that can play music and communicate and share music with others.
